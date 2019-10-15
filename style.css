@@ -1,0 +1,81 @@
+*{
+   margin:0;
+   padding:0;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:20px;
+    
+}
+table, tr ,td{
+           border:1px solid black;
+           text-align: center;
+           border:none;
+           
+}
+table{
+    width:100%;
+    height:70%;
+    
+}
+#table1{
+    width:100%;
+    height:50%;
+    
+    
+}
+.table2{
+    width:100%;
+    height:25%;
+}
+#margin{
+    width:6%;
+    height:12%;
+    font-size: 20px;
+    color:white;
+    background-color: darkblue;
+    
+}
+.table h1{
+    text-align: center;
+    font-family: cursive;
+    color:white;
+    background-color:gray;
+}
+.light-green{
+    background-color: lightgreen;
+    color:white;
+}
+.light-pink{
+    color:white;
+    background-color: lightpink;
+}
+.red{
+    color:white;
+    background-color:red;
+}
+.orange{
+    color:white;
+    background-color: orange;
+}
+.yelow{
+    color:white;
+    background-color:yellow;
+}
+.purple{
+    color:white;
+    background-color:purple;
+}
+.light-blue{
+    color:white;
+    background-color:lightblue;
+}
+.light-gray{
+    color:white;
+    background-color:lightgray;
+}
+.dark-blue{
+    color:white;
+    background-color:darkblue;
+
+}
